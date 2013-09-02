@@ -1,0 +1,4 @@
+Just a simple program to sync files into an s3 bucket.
+It only syncs files that have changed since the last sync.
+Since this is my first some what major app in golang there are probably
+some issues with it. I plan on improving and adding functionality later.
